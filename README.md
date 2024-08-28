@@ -5,3 +5,7 @@ Configure a simple webserver and Wifi setup for an ESP32 microcontroller using s
 
 [deutsch]
 Konfiguration eines einfachen Webservers und Wifi-Setups für einen ESP32-Mikrocontroller unter Verwendung von Standardbibliotheken, die Ihr ohne Aufwand importieren könnt.
+
+---------
+
+See the "CODE for Arduino IDE"
